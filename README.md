@@ -1,0 +1,2 @@
+# altcoin
+altcoin
